@@ -5,7 +5,7 @@
  * You can only use `putchar` to print to console.
  * You can only use `putchar` twice.
  * Return: 0
- */
+*/
 int main(void)
 {
 	int i;
