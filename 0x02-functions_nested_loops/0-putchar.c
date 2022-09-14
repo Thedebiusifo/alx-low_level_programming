@@ -3,10 +3,10 @@
 /**
  * main - Entry point
  *
- * Description: print _putchar using putchar prototype
+ * Description: prints _putchar using putchar prototype
  *
  * Return: Always 0 (Success)
- */
+*/
 
 int main(void)
 {
