@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * rev_string -reserves a string
+ * rev_string - reserves a string
  * @s: string to reverse.
  * Return: void.
  */
 void rev_string(char *s)
 {
-	int i = 0, j = o;
+	int i = 0, j = 0;
 	char str[500];
 
 	while (*(s + i))
