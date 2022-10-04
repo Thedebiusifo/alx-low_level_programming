@@ -4,8 +4,8 @@
 /**
  * main - this prints d number of arguments
  * @argc: Num of command line arguments
- * @argv: Array name
- * Return: 0
+ *  @argv: Array name
+ *  Return: 0
  */
 
 int main(int argc, char *argv[])
@@ -16,8 +16,7 @@ int main(int argc, char *argv[])
 		printf("%d\n", argc - 1);
 	else
 	{
-		for (i = 0; *argv; i++, argv++)
-			;
+		for (i = 0; *argv; i++, argv++);
 
 		printf("%d\n", i - 1);
 	}
