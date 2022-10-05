@@ -4,7 +4,7 @@
 /**
  * wordcount - this get a word count from string
  *             without spaces
- * 
+ *
  * @str: a string to count words present
  *
  * Return: The returns the number of words
